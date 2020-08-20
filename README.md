@@ -1,11 +1,6 @@
-# JS_Exercises
+# JavaScript Exercises
+_First JavaScript Exercises_
 
-Author Stanislas BASQUIN
+## Auteur
 
-First JavaScript Exercices 
-
-Démarrage
-$ bundle install
-
-Auteurs
-🔥 Stanislas BASQUIN
+- [:fire: Stanislas BASQUIN](https://github.com/StanislasBASQUIN)
