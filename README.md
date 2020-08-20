@@ -10,7 +10,7 @@ _First JavaScript Exercises_
 - [:fire: Stanislas BASQUIN](https://github.com/StanislasBASQUIN)
 
 
-Pour tester chacun de ces scripts, il faut aller dans l'index, le modifier avec la ligne suivante 
-<script src="script_X.js"></script> X étant le numéro du script à lancer.
+Pour tester chacun de ces scripts, il faut aller dans l'index, le modifier avec la ligne suivante, X étant le numéro du script à lancer :
+<script src="script_X.js"></script> 
 
 Ouvrez ensuite l'index sur le navigateur et lancez la console.
