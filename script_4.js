@@ -19,7 +19,7 @@ const entrepreneurs = [
     { first: 'Peter', last: 'Thiel', year: 1967 }
   ];
   
-  
+  //la question 1
   
   function entrepr(annee) {
       if ( name.year >=1970 && annee.year<=1980){
@@ -29,4 +29,21 @@ const entrepreneurs = [
   
   console.log(entrepreneurs.filter(entrepr));
   
-  
+  //la question 2
+
+  entrepreneurs.map(tab => console.log(tab.first + ':' + tab.last));
+
+//la question 3 
+
+for(var i=0; i<entrepreneurs.length; i++) {
+ 
+
+  console.log(2020- entrepreneurs[i].year);
+}
+
+//la question 4
+
+entrepreneurs.sort(function(a, b) { 
+  return a.last.localeCompare(b.last);
+});
+console.log(entrepreneurs)
