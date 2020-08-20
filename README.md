@@ -8,3 +8,9 @@ _First JavaScript Exercises_
 - [:fire: Abdeldjallil KADID](https://github.com/AleaToir3)
 - [:fire: Tim SPIRIDINOV](https://github.com/StanislasBASQUIN)
 - [:fire: Stanislas BASQUIN](https://github.com/StanislasBASQUIN)
+
+
+Pour tester chacun de ces scripts, il faut aller dans l'index, le modifier avec la ligne suivante 
+<script src="script_X.js"></script> X étant le numéro du script à lancer.
+
+Ouvrez ensuite l'index sur le navigateur et lancez la console.
